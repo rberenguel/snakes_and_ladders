@@ -8,4 +8,5 @@ Scala.
 
 This presentation is formatted in Markdown and prepared to be used
 with [Deckset](https://www.decksetapp.com). You can find the generated PDF here
-and in [Slideshare](https://www.slideshare.net/rberenguel/)
+and in [Slideshare](https://www.slideshare.net/rberenguel/) Sadly in both the animated gifs are 
+just static images.
